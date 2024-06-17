@@ -1,4 +1,8 @@
-##udhayakumar 230701367 implementation of queue using array and linkedlist
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-7 : Implementation of Queue using Array and Linked List implementation.c
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
