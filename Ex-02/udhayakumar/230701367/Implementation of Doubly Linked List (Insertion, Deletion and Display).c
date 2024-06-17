@@ -1,4 +1,8 @@
-##udhayakumar 230701367 implementation of doubly linkedlist
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-1 : Implementation of Doubly Linked List (Insertion, Deletion and Display)
+
+    
 #include <stdio.h>
 #include <stdlib.h>
 
