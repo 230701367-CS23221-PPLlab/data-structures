@@ -1,6 +1,6 @@
 NAME : UDHAYAKUMAR V
 ROLL NO : 230701367
-EX-3 : Applications of Singly Linked List (Polynomial Manipulation).c
+EX-3 : Applications of Singly Linked List (Polynomial Manipulation)
 
 
 #include <stdio.h>
