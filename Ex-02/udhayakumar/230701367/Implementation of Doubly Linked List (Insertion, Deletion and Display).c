@@ -1,6 +1,6 @@
 NAME : UDHAYAKUMAR V
 ROLL NO : 230701367
-EX-1 : Implementation of Doubly Linked List (Insertion, Deletion and Display)
+EX-2 : Implementation of Doubly Linked List (Insertion, Deletion and Display)
 
     
 #include <stdio.h>
