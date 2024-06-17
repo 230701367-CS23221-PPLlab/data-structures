@@ -1,3 +1,4 @@
+##udhayakumar 230701367 application of stack(evaluation)
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <ctype.h> 
