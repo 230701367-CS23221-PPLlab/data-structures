@@ -1,3 +1,8 @@
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-8 : Performing Tree Traversal Techniques
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
