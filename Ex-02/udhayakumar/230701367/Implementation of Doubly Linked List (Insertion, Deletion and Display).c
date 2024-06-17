@@ -1,3 +1,4 @@
+##udhayakumar 230701367 implementation of doubly linkedlist
 #include <stdio.h>
 #include <stdlib.h>
 
