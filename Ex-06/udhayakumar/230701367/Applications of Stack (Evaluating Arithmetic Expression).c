@@ -1,4 +1,8 @@
-##udhayakumar 230701367 application of stack(evaluation)
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-6 : Applications of Stack (Evaluating Arithmetic Expression)
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <ctype.h> 
