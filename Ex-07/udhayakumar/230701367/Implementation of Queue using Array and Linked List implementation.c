@@ -1,6 +1,6 @@
 NAME : UDHAYAKUMAR V
 ROLL NO : 230701367
-EX-7 : Implementation of Queue using Array and Linked List implementation.c
+EX-7 : Implementation of Queue using Array and Linked List implementation
 
 
 #include <stdio.h> 
