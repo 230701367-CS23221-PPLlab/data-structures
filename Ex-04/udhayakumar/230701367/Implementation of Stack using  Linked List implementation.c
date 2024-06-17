@@ -1,4 +1,7 @@
-## udhayakumar 230701367 implementation of stack using linkedlist
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-04 : Implementation of Stack using  Linked List implementation
+    
 #include <stdio.h>
 #include <stdlib.h>
 
