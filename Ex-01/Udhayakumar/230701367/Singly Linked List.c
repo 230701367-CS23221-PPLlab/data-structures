@@ -1,4 +1,8 @@
-##udhayakumar 230701367 singlylinkedlist 
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-1 : Singly Linked List
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
