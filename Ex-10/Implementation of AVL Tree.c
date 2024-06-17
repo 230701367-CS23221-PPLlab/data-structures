@@ -1,3 +1,8 @@
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-10 : Implementation of AVL Tree
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
