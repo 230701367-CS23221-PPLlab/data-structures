@@ -1,3 +1,8 @@
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-9 : Implementation of Binary Search Tree
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
