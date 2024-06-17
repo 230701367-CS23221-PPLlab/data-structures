@@ -1,6 +1,6 @@
 NAME : UDHAYAKUMAR V
 ROLL NO : 230701367
-EX-13 : Implementation of Prim's Algorithm.c
+EX-13 : Implementation of Prim's Algorithm
 
 
 #include <stdio.h> 
