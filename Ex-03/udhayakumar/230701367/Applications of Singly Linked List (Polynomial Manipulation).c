@@ -1,4 +1,4 @@
-
+##udhayakumar 230701367 application of singly linkedlist
 #include <stdio.h>
 #include <stdlib.h>
 
