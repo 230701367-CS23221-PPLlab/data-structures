@@ -1,4 +1,8 @@
-##udhayakumar 230701367 application of singly linkedlist
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-3 : Applications of Singly Linked List (Polynomial Manipulation).c
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
