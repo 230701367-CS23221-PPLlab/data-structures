@@ -1,3 +1,4 @@
+##udhayakumar 230701367 application of stack(infix to postfix)
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
