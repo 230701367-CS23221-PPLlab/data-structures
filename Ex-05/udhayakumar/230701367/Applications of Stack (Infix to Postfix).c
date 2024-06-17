@@ -1,4 +1,8 @@
-##udhayakumar 230701367 application of stack(infix to postfix)
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-5 : Applications of Stack (Infix to Postfix)
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
