@@ -1,4 +1,8 @@
-## udhayakumar 230701367 implementation of stack using array
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-04 : implementation of stack using array
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
