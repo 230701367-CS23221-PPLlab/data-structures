@@ -1,3 +1,8 @@
+NAME : UDHAYAKUMAR V
+ROLL NO : 230701367
+EX-15 : Sorting
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
